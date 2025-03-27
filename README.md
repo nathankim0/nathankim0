@@ -1,5 +1,7 @@
-<h3 align="center">김진엽 (Nathan)</h3>
+
+<!-- <h3 align="center">김진엽 (Nathan)</h3>
 <h4 align="center">Android Developer</h4>
+-->
 <!-- <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.manna.parsing2&hl=ko">
     <img src="https://img.shields.io/badge/오늘의만나-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="오늘의만나"/>
